@@ -2,7 +2,7 @@ Questions to test your Linux knowledge.
 
 ## Table of Contents:
 
-1. [cgroups](https://katademy.github.io/linux-faq/cgrou[s])
+1. [cgroups](https://katademy.github.io/linux-faq/cgroups)
 1. [devices](https://katademy.github.io/linux-faq/devices)
 1. [files](https://katademy.github.io/linux-faq/files)
 1. [namespaces](https://katademy.github.io/linux-faq/namespaces)
